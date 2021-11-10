@@ -7,25 +7,25 @@ body {
   margin-inline: auto;
   background-color: #efefef;
   border-radius: 1rem;
-  padding: 1rem 1.5rem;  
+  padding: 1rem 1.5rem;
 }
 
-h1 { 
-  font-size: 2rem; 
+h1 {
+  font-size: 3rem;
 }
 
-h2 { 
-  font-size: 1.5rem; 
+h2 {
+  font-size: 2rem;
   text-align: center;
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.8rem;
   margin-block: 0 0.4rem;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 3rem;
   margin-block: 0 0.4rem;
 }
 
@@ -33,7 +33,7 @@ h4 {
     margin-top: 3rem;
 }
 
-p { 
+p {
   font-size: 1rem;
   margin: 0 0 0 0.7rem;
 }
