@@ -10,3 +10,7 @@ Date created: August 2021
 
 Hours spend: 
 
+
+Learned:
+
+- Application of HTML and CSS to form a simple layout
