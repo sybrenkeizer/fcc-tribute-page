@@ -9,6 +9,3 @@ Date created: August 2021
 
 Hours spend: 
 
-============
-PULL TEST
-===============
